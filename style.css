@@ -1,0 +1,13 @@
+body {
+  background: black;
+}
+
+table {
+  width: 90vmin;
+  height: 90vmin;
+  position: absolute;
+  left: 50vw;
+  top: 50vh;
+  transform: translate(-45vmin, -45vmin);
+  border-collapse: collapse;
+}
